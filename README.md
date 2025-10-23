@@ -49,11 +49,7 @@ The correlation heatmap shows that `accommodates`, `bathrooms`, and `bedrooms` a
 ### 2. The Value of Being a "Guest Favourite"
 There is a clear and significant financial benefit to being a "Guest Favourite." On average, these listings earn substantially more revenue, highlighting the importance of investing in guest experience and quality.
 
-![Average Revenue by Guest Favourite Status](avg_revenue_by_guest_favourite.png)
-
 ### 3. Finding the Revenue "Sweet Spot"
 This project's core goal is to find the optimal price.
 * **Demand Curve (Price vs. Sales)**: As expected, as `price` increases, the number of `sales` (bookings) tends to decrease.
 * **Revenue Optimization Curve (Price vs. Revenue)**: This plot shows the relationship between price and total revenue. The red trendline illustrates that while revenue initially rises with price, it eventually flattens and will fall. **The peak of this curve represents the optimal price point that maximizes total revenue.**
-
-![Price vs. Revenue Optimization Curve](price_vs_revenue_scatter.png)
